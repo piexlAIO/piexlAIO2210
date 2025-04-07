@@ -5,4 +5,4 @@
 | piexlAIO          | 8           | 1,000      |
 | สิ้นสุด             |   -         |       -     |
 
-[![         สิ้นสุด          ](https://img.shields.io/github/downloads/DxxxxY/EssentialCosmeticsUnlocker/total?style=for-the-badge)
+[![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
