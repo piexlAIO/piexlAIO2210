@@ -4,8 +4,8 @@
 | piexlAIO2210      | 7           | 1,000      |
 | piexlAIO          | 8           | 1,000      |
 
-|----------------------------------------------|
-| สิ้นสุด            |
+|สิ้นสุด                                          |
+|-----------------------------------------------|
 
 [![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
 { "keys": ["ctrl+shift+s"], "command": "gs_show_status"}
