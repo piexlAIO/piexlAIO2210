@@ -8,6 +8,7 @@
 | 🛑 สิ้นสุด |
 |-----------|
 | 🛑 live  |
+| 💎 youtube |
 
 
 [![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
