@@ -5,10 +5,10 @@
 | piexlAIO          | 8           | 1,000      |
 | lahcvcfhrde3904   | 11          | 1,000      |
 
-| 🛑 สิ้นสุด   | v.1.0.0 |
-|------------|---------|
-| 🛑 live    | ======= |
-| 💎 youtube | ======= |
+| 🛑 สิ้นสุด   | 🛑 live  | 💎 youtube |
+|------------|----------|-------------|
+
+
 
 
 [![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
