@@ -4,4 +4,6 @@
 | piexlAIO2210      | 7           | 1,000      |
 | piexlAIO          | 8           | 1,000      |
 | สิ้นสุด             |   -         |       -     |
-![Compatibility: Infinite](https://img.shields.io/badge/COMPATIBILITY-)
+
+
+![Compatibility: Infinite](https://img.shields.io/badge/COMPATIBILITY)
