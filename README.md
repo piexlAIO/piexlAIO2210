@@ -6,3 +6,4 @@
 | สิ้นสุด             |   -         |       -     |
 
 [![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
+{ "keys": ["ctrl+shift+s"], "command": "gs_show_status"}
