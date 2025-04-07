@@ -5,7 +5,7 @@
 | piexlAIO          | 8           | 1,000      |
 | lahcvcfhrde3904   | 11          | 1,000      |
 
-|[                      สิ้นสุด                    ]|
+|[ สิ้นสุด ]|[ live ] |
 |-----------------------------------------------|
 
 [![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
